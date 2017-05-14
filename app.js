@@ -1,0 +1,5 @@
+var math = {
+    sum : function () {
+        
+    }
+}
